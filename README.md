@@ -1,8 +1,10 @@
 # CS519.O11
-I'm Nguyen Trung Kien, this is a proposal which I have done for CS519, Vietnamese Book Retrieval using BM25 [1] and Vietnamese-SBERT [2].
+I'm Trung Kien, a third-year student majoring Computer Science in University of Information Technology, Vietnam National University, Ho Chi Minh City.
 
-Citation (DBLP format):
+This is a proposal which I have done for CS519, Vietnamese Book Retrieval using BM25 [1] and Vietnamese-SBERT [2].
 
-[1]
+Citation:
 
-[2]
+[1]. Andrew Trotman, Antti Puurula, Blake Burgess: Improvements to BM25 and Language Models Examined. ADCS 2014: 58
+
+[2]. Hoang-Quoc Nguyen-Son, Nam-Phong Tran, Ngoc-Vien Pham, Minh-Triet Tran, Isao Echizen: Vietnamese Paraphrase Identification Using Matching Duplicate Phrases and Similar Words. FDSE 2018: 172-182
