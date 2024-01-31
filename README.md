@@ -1,7 +1,7 @@
 # CS519.O11
 Hello, I'm Trung Kien, a third-year student majoring Computer Science in University of Information Technology, Vietnam National University, Ho Chi Minh City.
 
-This is a proposal which I have done for CS519, Vietnamese Book Retrieval using BM25 [1] and Vietnamese-SBERT [2].
+This is a proposal which I have done for CS519, Semantic-based Vietnamese Book Retrieval using BM25 [1] and Vietnamese-SBERT [2].
 
 Citation:
 
